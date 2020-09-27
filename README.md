@@ -1,2 +1,2 @@
 # oopcpp
-Object Oriented programming using the C++ programming language
+Object Oriented Programming using the C++ programming language
